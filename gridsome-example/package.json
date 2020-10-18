@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-example",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "aws-amplify": "^3.3.4",
+    "gridsome": "^0.7.0"
+  }
+}
